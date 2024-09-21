@@ -23,3 +23,15 @@ Navigate the repository by difficulty levels: Easy/, Medium/, Hard/.
 Explore the folders to find the problem solutions and explanations.
 
 Feel free to explore, fork, and contribute! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/santhoshimj/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/santhoshimj/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
